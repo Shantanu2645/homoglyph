@@ -1,5 +1,5 @@
 
-# used to covert english to unicode https://www.englishtools.org/en/convert-english-to-unicode-and-unicode-to-english
+# used to convert english to unicode https://www.englishtools.org/en/convert-english-to-unicode-and-unicode-to-english
 # homograph unicode collection https://www.irongeek.com/homoglyph-attack-generator.php
 def homograph(text_):
 
